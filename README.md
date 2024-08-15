@@ -15,9 +15,15 @@ Files include:
 3. ContentScreen.swift
 4. ContentView.swift
 
+To use this template add the `Lasso Project.xctemplate` folder to the path `/Users/YOUR_USER/Library/Developer/Xcode/Templates`.
+
+You may need to create the Templates file if it does not exisit. You will also need to add [Lasso](https://github.com/ww-tech/lasso) as a project dependency in order for the app to build.
+
 ## Lasso Screen Files
 
 Generate boiilerplate for a lasso screen
+
+To use this template add `Lasso Screen.xctemplate` to the path `/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/MultiPlatform/Source`. You will need `sudo` privileges to do this.
 
 ![LassoScreen](docResources/LassoScreen.png)
 

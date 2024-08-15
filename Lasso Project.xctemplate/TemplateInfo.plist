@@ -5,7 +5,7 @@
 	<key>Kind</key>
 	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
 	<key>Identifier</key>
-	<string>com.appsbyreed.app</string>
+	<string>com.example.apps</string>
 	<key>Concrete</key>
 	<true/>
 	<key>Description</key>
